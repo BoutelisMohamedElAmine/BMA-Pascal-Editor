@@ -1,0 +1,7 @@
+[package]
+name=fcl-web
+version=2.4.0
+[require]
+packages=rtl fcl-base fcl-xml fcl-db fcl-process httpd22 fastcgi
+packages_darwin=univint
+packages_win32_i386=fcl-xml ibase fcl-xml postgres fcl-xml mysql fcl-xml odbc fcl-xml oracle fcl-xml sqlite fcl-xml fcl-base fcl-xml pxlib sqlite fcl-base fcl-base fcl-xml  ibase mysql oracle sqlite odbc postgres fcl-base
