@@ -1,0 +1,23 @@
+# Delphi local/user files
+*.dproj.local
+*.identcache
+*.local
+
+# Delphi build/output folders
+Win32/
+Win64/
+Debug/
+Release/
+
+# Delphi generated files
+*.dcu
+*.exe
+*.dll
+*.map
+*.dsk
+*.stat
+
+# Delphi temporary files
+*.~*
+__history/
+__recovery/
