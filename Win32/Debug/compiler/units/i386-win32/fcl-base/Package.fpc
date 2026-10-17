@@ -1,0 +1,9 @@
+[package]
+name=fcl-base
+version=2.4.0
+[require]
+packages_win32=winunits-base winunits-jedi
+packages_win64=winunits-base winunits-jedi
+packages=rtl 
+packages_darwin=univint
+packages_win32_i386=
